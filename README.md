@@ -83,6 +83,7 @@ fitness-app-microservices/
 ├── fitness-app-frontend    # React UI
 └── README.md
 
+
 🔮 Future Enhancements
 Add Prometheus + Grafana for monitoring
 

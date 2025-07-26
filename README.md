@@ -94,6 +94,7 @@ Real-time notifications with WebSockets
 Push to cloud-native deployment (Kubernetes, Helm)
 
 🙌 Acknowledgment
+
 This project was developed to master microservice architecture with Spring Boot and to integrate modern features like AI, secure authentication, and centralized configuration.
 
 
